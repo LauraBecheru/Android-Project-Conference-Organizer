@@ -1,0 +1,13 @@
+{
+	"Sala Palatului": {
+		"Address": "Strada Ion Câmpineanu 28, Bucure?ti 010039",
+		"Room": "RoomA",
+		"Seats": "200"
+	},
+
+	"Romexpo": {
+		"Address": "Bulevardul Mara?ti 65-67, Bucure?ti",
+		"Room": "2001C",
+		"Seats": "57"
+	}
+}

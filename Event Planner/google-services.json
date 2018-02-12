@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "678553869562",
+    "firebase_url": "https://cool-device-188511.firebaseio.com",
+    "project_id": "cool-device-188511",
+    "storage_bucket": "cool-device-188511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678553869562:android:518fb7c154b4cc96",
+        "android_client_info": {
+          "package_name": "com.example.laura.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678553869562-e7h17fa6eo7fasdd9qvv8o60h6lskop6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laura.project",
+            "certificate_hash": "44d4a86d0401ac3ed2fffd7bfcb30ff5c1f07ed5"
+          }
+        },
+        {
+          "client_id": "678553869562-cdk4tglfribegli0cnot8thq4q3adped.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDkt41i3V3ougdRgSxsGMzN7C1yUoFDYs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678553869562-cdk4tglfribegli0cnot8thq4q3adped.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
